@@ -17,3 +17,9 @@ https://pymolwiki.org/index.php/Main_Page
 
 Cystance runs on a Mac. Almost certainly fails on Windows. Might work on \*nix
 To get access to CCP4 the script should be run from the Terminal with CCP4 sourced.
+Calling PyMOL in this way is done in the Anaconda Python distro
+bundled with Pymol 2.0 from Schroedinger
+
+Alter parameters within the script to optimise on different priorities. 
+
+/Applications/PyMOL.app/Contents/bin/python buryMyCys.py
